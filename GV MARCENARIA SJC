@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>GV Marcenaria SJC LTDA</title>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial, sans-serif;
+}
+
+body{
+background:#0f0f0f;
+color:white;
+}
+
+header{
+background:#000;
+padding:25px;
+text-align:center;
+border-bottom:2px solid #d4af37;
+}
+
+header h1{
+color:#d4af37;
+font-size:38px;
+}
+
+header p{
+margin-top:10px;
+}
+
+.hero{
+padding:80px 20px;
+text-align:center;
+}
+
+.hero h2{
+font-size:42px;
+color:#d4af37;
+margin-bottom:20px;
+}
+
+.hero p{
+max-width:800px;
+margin:auto;
+font-size:20px;
+}
+
+.btn{
+display:inline-block;
+margin-top:25px;
+padding:15px 30px;
+background:#d4af37;
+color:black;
+text-decoration:none;
+font-weight:bold;
+border-radius:8px;
+}
+
+section{
+padding:60px 20px;
+max-width:1200px;
+margin:auto;
+}
+
+section h2{
+color:#d4af37;
+margin-bottom:25px;
+}
+
+.galeria{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+gap:20px;
+}
+
+.galeria img{
+width:100%;
+border-radius:10px;
+}
+
+footer{
+background:black;
+text-align:center;
+padding:30px;
+border-top:2px solid #d4af37;
+}
+
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>GV MARCENARIA SJC LTDA</h1>
+<p>Qualidade e agilidade nas entregas</p>
+</header>
+
+<section class="hero">
+
+<h2>Móveis Planejados Sob Medida</h2>
+
+<p>
+Projetos residenciais e comerciais com acabamento de alto padrão.
+Atendemos São José dos Campos, Jacareí, Caçapava,
+Vale do Paraíba e Litoral Norte.
+</p>
+
+<a class="btn"
+href="https://wa.me/5512981377381">
+Solicitar Orçamento
+</a>
+
+</section>
+
+<section>
+
+<h2>Quem Somos</h2>
+
+<p>
+A GV Marcenaria SJC LTDA é especializada em móveis planejados
+residenciais e comerciais, oferecendo soluções personalizadas,
+acabamento refinado e compromisso com prazos.
+</p>
+
+</section>
+
+<section>
+
+<h2>Serviços</h2>
+
+<ul>
+
+<li>Cozinhas Planejadas</li>
+<li>Guarda-Roupas</li>
+<li>Closets</li>
+<li>Painéis para TV</li>
+<li>Home Office</li>
+<li>Lavanderias</li>
+<li>Escritórios</li>
+<li>Lojas e Ambientes Comerciais</li>
+
+</ul>
+
+</section>
+
+<section>
+
+<h2>Instagram</h2>
+
+<a class="btn"
+href="https://www.instagram.com/gvmarcenariasjc">
+Visitar Instagram
+</a>
+
+</section>
+
+<section>
+
+<h2>Contato</h2>
+
+<p>WhatsApp: (12) 98137-7381</p>
+
+</section>
+
+<footer>
+
+<p>GV Marcenaria SJC LTDA © 2026</p>
+
+</footer>
+
+</body>
+</html>
